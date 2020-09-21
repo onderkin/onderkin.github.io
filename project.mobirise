@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "onderkin.tk 2.0",
-    "currentPage": "prijzen.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -46,7 +46,7 @@
     ],
     "favicon": "@PROJECT_PATH@/assets/images/270509-vertical-rainbow-background-1920x1080-for-ipad-pro.jpg",
     "imageResize": false,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-136344768-4\" type=\"1b465f113e1179fb4cfb130a-text/javascript\"></script>\n<script type=\"1b465f113e1179fb4cfb130a-text/javascript\">\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-136344768-4');\n</script>\n\n<!-- Hotjar Tracking Code for https://onderkin.tk -->\n<script type=\"1b465f113e1179fb4cfb130a-text/javascript\">\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:1978030,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-136344768-4\" type=\"1b465f113e1179fb4cfb130a-text/javascript\"></script>\n<script type=\"1b465f113e1179fb4cfb130a-text/javascript\">\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-136344768-4');\n</script>\n\n<!-- Hotjar Tracking Code for https://onderkin.tk -->\n<script type=\"1b465f113e1179fb4cfb130a-text/javascript\">\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:1978030,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>\n<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async=\"\"></script>\n<script>\n  window.OneSignal = window.OneSignal || [];\n  OneSignal.push(function() {\n    OneSignal.init({\n      appId: \"214fbd8e-4987-43ad-a499-a22f713e2059\",\n    });\n  });\n</script>",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "sitemapSwitcher": true,
